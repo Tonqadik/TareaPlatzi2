@@ -1,0 +1,14 @@
+C:\c#proyectos\TareaPlatziz2\bin\Debug\net8.0\TareaPlatziz2.exe
+C:\c#proyectos\TareaPlatziz2\bin\Debug\net8.0\TareaPlatziz2.deps.json
+C:\c#proyectos\TareaPlatziz2\bin\Debug\net8.0\TareaPlatziz2.runtimeconfig.json
+C:\c#proyectos\TareaPlatziz2\bin\Debug\net8.0\TareaPlatziz2.dll
+C:\c#proyectos\TareaPlatziz2\bin\Debug\net8.0\TareaPlatziz2.pdb
+C:\c#proyectos\TareaPlatziz2\obj\Debug\net8.0\TareaPlatziz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#proyectos\TareaPlatziz2\obj\Debug\net8.0\TareaPlatziz2.AssemblyInfoInputs.cache
+C:\c#proyectos\TareaPlatziz2\obj\Debug\net8.0\TareaPlatziz2.AssemblyInfo.cs
+C:\c#proyectos\TareaPlatziz2\obj\Debug\net8.0\TareaPlatziz2.csproj.CoreCompileInputs.cache
+C:\c#proyectos\TareaPlatziz2\obj\Debug\net8.0\TareaPlatziz2.dll
+C:\c#proyectos\TareaPlatziz2\obj\Debug\net8.0\refint\TareaPlatziz2.dll
+C:\c#proyectos\TareaPlatziz2\obj\Debug\net8.0\TareaPlatziz2.pdb
+C:\c#proyectos\TareaPlatziz2\obj\Debug\net8.0\TareaPlatziz2.genruntimeconfig.cache
+C:\c#proyectos\TareaPlatziz2\obj\Debug\net8.0\ref\TareaPlatziz2.dll
